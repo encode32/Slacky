@@ -7,7 +7,7 @@ Original slack channel dumper - [https://gist.github.com/Chandler/fb7a070f528838
 Dumper:
 
 ```
-slacky.py --token XXXXXXXX {--dryRun|--skipPrivateChannels|--skipChannels|--skipDirectMessages}
+slacky.py --token XXXXXXXX [--dryRun|--skipPrivateChannels|--skipChannels|--skipDirectMessages]
 ```
 
 Parser:
